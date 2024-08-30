@@ -1,4 +1,4 @@
-# bat-que-gera-arvore-de-arquivos# Gerador de Estrutura de Diretórios - `listar_estrutura.bat`
+# bat-que-gera-arvore-de-arquivos# Gerador de Estrutura de Diretórios - `gera arvore.bat`
 
 ## Descrição
 
@@ -10,9 +10,4 @@ O script `listar_estrutura.bat` é uma ferramenta simples e eficaz para gerar um
 - **Ignora `node_modules`**: Para projetos Node.js, o script ignora automaticamente a pasta `node_modules`, evitando que a saída fique cheia de arquivos desnecessários.
 - **Formato Personalizado**: A saída é formatada usando os caracteres `├`, `│` e `└`, proporcionando uma visualização clara e organizada da estrutura.
 
-## Como Usar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
